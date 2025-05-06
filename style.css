@@ -1,0 +1,52 @@
+.box {
+    width: 150px;
+    height: 150px;
+    background-color: #1F2937;
+    
+    
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    height: 50vh;
+    background-color: #1F2937;
+}
+
+
+#box1 {
+    background-color: #1F2937; 
+    font-size: 24px;
+    color: #f9faf8;
+    text-align: center;
+    
+    
+}
+
+#box2 {
+    background-color: #1F2937; 
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+    text-align: center;
+    
+    
+}
+
+#box3 {
+    background-color: #1F2937;
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+     
+}
+#box4 {
+    background-color: #1F2937; 
+    font-size: 25px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+    
